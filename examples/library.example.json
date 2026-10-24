@@ -1,0 +1,49 @@
+[
+ {
+  "id": "example1",
+  "name": "Juego de ejemplo 1",
+  "subtitle": "Carreras",
+  "app": "/Applications/Ejemplo 1.app",
+  "bundle": "com.example.game1",
+  "art": "art/example1.png",
+  "accent": "#E8203A",
+  "tweakable": false,
+  "tags": ["60 FPS", "Mando"],
+  "note": "Este juego tiene sus propias opciones dentro de la app."
+ },
+ {
+  "id": "example2",
+  "name": "Juego de ejemplo 2",
+  "subtitle": "Plataformas",
+  "app": "/Applications/Ejemplo 2.app",
+  "bundle": "com.example.game2",
+  "art": "art/example2.png",
+  "accent": "#2A8CF0",
+  "tweakable": true,
+  "tags": ["60 FPS", "MetalFX"],
+  "clip": "clips/example2.mp4",
+  "playlog": "~/Library/Application Support/Ejemplo2/playtime.log"
+ },
+ {
+  "id": "example3",
+  "name": "Juego de ejemplo 3",
+  "subtitle": "Aventura",
+  "app": "/Applications/Ejemplo 3.app",
+  "bundle": "com.example.game3",
+  "art": "art/example3.png",
+  "accent": "#33CC80",
+  "tweakable": false,
+  "tags": ["Mundo abierto"]
+ },
+ {
+  "id": "example4",
+  "name": "Juego de ejemplo 4",
+  "subtitle": "Acción",
+  "app": "/Applications/Ejemplo 4.app",
+  "bundle": "com.example.game4",
+  "art": "art/example4.png",
+  "accent": "#F2A62B",
+  "tweakable": true,
+  "tags": ["60 FPS"]
+ }
+]
